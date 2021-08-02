@@ -425,6 +425,25 @@ ul li {
     margin-left: 0;
   }
 }
+
+.site-header .intro p a {
+  font-size: 25px;
+  margin-bottom: 10px;
+  font-weight: 300;
+  text-transform: none;
+  color: #fff;
+  text-decoration: underline;
+}
+
+
+.site-header .intro p a:hover {
+  font-size: 27px;
+  margin-bottom: 10px;
+  font-weight: 300;
+  text-transform: none;
+  color: #fff;
+}
+
 /* 
  * 6.0 Section
  */
